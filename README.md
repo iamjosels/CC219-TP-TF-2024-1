@@ -1,8 +1,14 @@
-# TRABJO FINAL - APLICACIONES DE DATA SCIENCE
+# TRABJaO FINAL - APLICACIONES DE DATA SCIENCE
 
 ### Objetivo del Trabajo
 
 El objetivo de este trabajo es implementar un sistema de chatbot para mejorar el servicio al cliente. El chatbot debe interpretar mensajes de usuarios enviados a través de una plataforma de mensajería instantánea y clasificarlos automáticamente en categorías como solicitudes de información, asistencia técnica, quejas y sugerencias. Se emplean modelos predictivos como Naive Bayes y Redes Neuronales para lograr esta clasificación automática, evaluando su efectividad y características explicativas.
+
+### Integrantes:
+
+- Pedro Alejandro Retuerto Diaz - 201116032
+- Renato Alberto Alcalde Gonzalez - 20191742
+- José Giovanni Laura Silvera - 202112986
 
 ### Breve Descripción del Dataset
 
